@@ -1,5 +1,15 @@
-title: reddyrrc test page
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
+title: Kids Art & Creations
+description: Artwork, LEGO builds, and creative fun
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
+author:
+  name: Our Family
+
+minimal_mistakes_skin: "sunrise"
+
+collections:
+  gallery:
+    output: true
+
